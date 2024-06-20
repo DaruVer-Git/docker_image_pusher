@@ -1,1 +1,1 @@
-cloudera/impala-dev
+cloudera/sandbox-cdh:6.3.0
