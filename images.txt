@@ -1,1 +1,1 @@
-cloudera/quickstart
+cloudera/quickstart:latest
