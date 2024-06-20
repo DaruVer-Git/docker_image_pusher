@@ -1,1 +1,1 @@
-cloudera/quickstart:latest
+cloudera/impala-dev
