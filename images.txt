@@ -1,1 +1,1 @@
-cloudera/sandbox-cdh:6.3.0
+amd64/oraclelinux
